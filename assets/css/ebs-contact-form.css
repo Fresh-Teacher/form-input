@@ -55,3 +55,6 @@ input[type="tel"],
 textarea {
     border-radius: 0 !important;
 }
+.fa-arrow-left {
+    margin-right: 0.5rem;
+  }
